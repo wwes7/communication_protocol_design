@@ -8,3 +8,5 @@ In this project, we realized a net protocol with C/C++, and a picture data tranf
 ![expecting_routingtable](expecting_routingtable.png)
 ### 4.Environment
 Visual Studio 2017
+### 5.Project Test Video
+[![Watch the video]](https://youtu.be/JhXMN-o4q9o)
